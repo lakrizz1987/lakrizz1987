@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me 
-**ignatov.ivaylo@gmail.com** 
+**ignatov.ivaylo@gmail.com** <br>
 **https://www.linkedin.com/in/ivaylo-ignatov-0a2a35213**
 
 <h3 align="left">Connect with me:</h3>
