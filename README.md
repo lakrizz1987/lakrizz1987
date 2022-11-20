@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ivaylo</h1>
-<h3 align="center">A passionate front-end student from Bulgaria</h3>
+<h1 align="center">Hi 👋, I'm Ivaylo Ignatov</h1>
+<h3 align="center">A passionate Web developer with excellent organizational skills and attention to details. Motivated to learn and grow in the Industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakrizz1987&label=Profile%20views&color=0e75b6&style=flat" alt="lakrizz1987" /> </p>
 
