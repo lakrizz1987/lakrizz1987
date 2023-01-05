@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakrizz1987&label=Profile%20views&color=0e75b6&style=flat" alt="lakrizz1987" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**, **ExpressJS** and **Node.js**
+- 🌱 I’m currently learning **CSS Advanced, Sass**
 
 - 📫 How to reach me 
 **ignatov.ivaylo@gmail.com** <br>
