@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lakrizz1987&show_icons=true&locale=en&layout=compact" alt="lakrizz1987" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakrizz1987&show_icons=true&locale=en" alt="lakrizz1987" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-sigma-five.stats.vercel.app/api?username=lakrizz1987&show_icons=true&locale=en" alt="lakrizz1987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakrizz1987&" alt="lakrizz1987" /></p>
