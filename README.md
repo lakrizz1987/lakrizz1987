@@ -19,6 +19,7 @@
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/ExpressJS-Dark.svg" alt="node" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" alt="node" width="40" height="40"/> </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Sass.svg" alt="node" width="40" height="40"/> </a>
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="node" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lakrizz1987&show_icons=true&locale=en&layout=compact" alt="lakrizz1987" /></p>
